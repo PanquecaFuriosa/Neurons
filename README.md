@@ -35,7 +35,7 @@ This is a module that contains an implementation for the Perceptron model neuron
 ### How to install this module
 First, clone this repository with the git command below:
 ```
-git clone https://github.com/PanquecaFuriosa/Simple_Perceptron
+git clone https://github.com/PanquecaFuriosa/Neurons
 ```
 
 ### Examples
@@ -82,7 +82,7 @@ This is a module that contains an implementation for the Adaline model neuron wi
 ### How to install this module
 First, clone this repository with the git command below:
 ```
-git clone https://github.com/PanquecaFuriosa/Simple_Perceptron
+git clone https://github.com/PanquecaFuriosa/Neurons
 ```
 
 ### Examples
