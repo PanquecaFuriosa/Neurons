@@ -1,12 +1,12 @@
-# Perceptron Class
+## Perceptron Class
 
 This is a module that contains an implementation for the Perceptron neuron with stochastic gradient descent algorithm in python.
 
-## Parameters:
+### Parameters:
 - eta (float): Learn rate
 - max_epocas (int): Maximum number of epochs.
 
-## Methods:
+### Methods:
 - entrenar (fit).
   Parameters:
     - X (array[array[float]]): Training input data.
@@ -25,17 +25,17 @@ This is a module that contains an implementation for the Perceptron neuron with 
   Returns:
     - An array with the classifications of the given data.
 
-## Requirements:
+### Requirements:
 - Python.
 - numpy module.
  
-## How to install this module
+### How to install this module
 First, clone this repository with the git command below:
 ```
 git clone https://github.com/PanquecaFuriosa/Simple_Perceptron
 ```
 
-## Examples
+### Examples
 ```
 from .Simple_Perceptron import Perceptron
 
